@@ -3,21 +3,17 @@
 <img src="https://raw.githubusercontent.com/MohammadYehya/volt-os.github/main/gitassets/VoltOS_nobg.png" alt="VoltOS" width="200"/>
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=1&pause=1000&color=58E1FF&center=true&vCenter=true&repeat=false&width=500&height=60&lines=VOLT+OS"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=1&pause=1000&color=58E1FF&center=true&vCenter=true&repeat=false&width=500&height=60&lines=VOLT+OS"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=1&pause=1000&color=58E1FF&center=true&vCenter=true&repeat=false&width=500&height=42&lines=VOLT+OS"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=1&pause=1000&color=58E1FF&center=true&vCenter=true&repeat=false&width=500&height=42&lines=VOLT+OS"/>
 </picture>
 
 <sub><sup>L I N U X &nbsp;&nbsp; M A D E &nbsp;&nbsp; F A S T , &nbsp;&nbsp; F L U I D , &nbsp;&nbsp; A N D &nbsp;&nbsp; Y O U R S .</sup></sub>
 
-[![Built on Arch](https://img.shields.io/badge/Built%20on-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org/)
-&nbsp;
-[![Compositor](https://img.shields.io/badge/Compositor-Hyprland-58E1FF?style=flat-square&logo=wayland&logoColor=white)](https://hyprland.org/)
-&nbsp;
-[![Shell](https://img.shields.io/badge/Shell-QuickShell-A6E3A1?style=flat-square)](https://quickshell.outfoxxed.me/)
-&nbsp;
-[![Status](https://img.shields.io/badge/Status-Alpha-F9E2AF?style=flat-square)]()
-&nbsp;
-[![License](https://img.shields.io/badge/License-GPL--3.0-F38BA8?style=flat-square&logo=gnu&logoColor=white)](./LICENSE)
+[![Built on Arch](https://img.shields.io/badge/Built%20on-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![Compositor](https://img.shields.io/badge/Compositor-Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=white)](https://hyprland.org/)
+[![Shell](https://img.shields.io/badge/Shell-QuickShell-A6E3A1?style=for-the-badge&logo=quickshell)](https://quickshell.outfoxxed.me/)
+[![Status](https://img.shields.io/badge/Status-Alpha-F9E2AF?style=for-the-badge)](https://github.com/MohammadYehya/volt-os.github/blob/main/profile)
+[![License](https://img.shields.io/badge/License-GPL--3.0-F38BA8?style=for-the-badge&logo=gnu&logoColor=white)](https://github.com/MohammadYehya/volt-os.github/blob/main/profile/LICENSE)
 
 </div>
 
@@ -82,16 +78,7 @@ Beyond that, decisions around the display manager, notification daemon, audio st
 ## 〔 The Marketplace 〕
 </div>
 
-VoltOS ships with a curated base of software — everything needed to get started, nothing that wasn't asked for. But the real extensibility comes through the **VoltOS Marketplace**: a first-class, built-in application for discovering and installing everything beyond the defaults.
-
-The Marketplace operates on two tiers:
-
-<dl>
-  <dt><strong>Verified Apps</strong></dt>
-  <dd>Software reviewed, tested, and approved by the VoltOS team. These are guaranteed to integrate cleanly with the desktop, meet a baseline quality bar, and behave predictably. Install with confidence.</dd>
-  <dt><strong>Community Apps</strong></dt>
-  <dd>Packages, themes, shell components, and extensions submitted by the community. Clearly surfaced as community-sourced, with ratings, flags, and open contribution. The marketplace grows with the people who use it.</dd>
-</dl>
+VoltOS ships with a curated base and extends through the **VoltOS Marketplace** — a built-in hub for discovering and installing everything beyond the defaults. Apps come in two tiers: **Verified** (reviewed and tested by the team) and **Community** (user-submitted, clearly labeled with ratings and flags).
 
 > [!IMPORTANT]
 > The Marketplace is in active design and has not shipped yet. If you have thoughts on how discovery, verification, or submission should work — open a [Discussion](https://github.com/MohammadYehya/volt-os.github/discussions). This is the right time to shape it.
@@ -158,15 +145,3 @@ VoltOS is distributed under the **GNU General Public License v3.0**.
 
 Free to use. Free to modify. Free to distribute — as long as it stays open.
 See [LICENSE](./LICENSE) for the full terms.
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/MohammadYehya/volt-os.github?style=flat-square&color=FFD700)](https://github.com/MohammadYehya/volt-os.github/stargazers)
-&nbsp;&nbsp;
-[![Issues](https://img.shields.io/github/issues/MohammadYehya/volt-os.github?style=flat-square&color=F38BA8)](https://github.com/MohammadYehya/volt-os.github/issues)
-&nbsp;&nbsp;
-[![Forks](https://img.shields.io/github/forks/MohammadYehya/volt-os.github?style=flat-square&color=A6E3A1)](https://github.com/MohammadYehya/volt-os.github/fork)
-
-<sub>Fast. Fluid. Yours.</sub>
-
-</div>
