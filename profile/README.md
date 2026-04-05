@@ -98,30 +98,33 @@ For now: watch the [Releases](https://github.com/MohammadYehya/volt-os.github/re
 ## 〔 Roadmap 〕
 </div>
 
-Development is organized loosely into three phases. What's done is done. What's in progress is being actively worked. What's planned is real, just not yet.
+Items are grouped by what they belong to, not by timeline. Status is noted where it's known.
 
-**Foundation** &nbsp;-&nbsp; *in progress*
+**Core**  -  *what the distro ships with by default*
 
 - [x] Hyprland base configuration
 - [ ] QuickShell bar and system tray
 - [ ] App launcher
 - [ ] Lock screen
 - [ ] Notification system
-
-**Core** &nbsp;-&nbsp; *in progress*
-
-- [ ] Automated install script
-- [ ] NVIDIA compatibility
 - [ ] VoltOS settings panel
 - [ ] Stable, reproducible configuration layer
+- [ ] NVIDIA compatibility
 
-**Release** &nbsp;-&nbsp; *planned*
+**Marketplace & Plugins**  -  *the extensibility layer*
 
-- [ ] Marketplace, first public release
+- [ ] Marketplace app — first public release
 - [ ] Verified app catalogue
 - [ ] Community submission pipeline
+- [ ] Theme browser
+- [ ] QuickShell component library (community-contributed QML modules)
+
+**Installation & Distribution**  -  *getting VoltOS onto a machine*
+
+- [ ] Automated install script (clean Arch base → full VoltOS desktop)
 - [ ] Bootable ISO with guided installer
 - [ ] Custom GRUB theme
+
 
 <div align="center">
 
